@@ -11,7 +11,7 @@ function App() {
       <div style={{textAlign:'center'}}>
         <h3>Made by: Pavan Kumar Mundrai</h3>
         <h3>portfolio: <a href="https://pavan-s-portfolio-c5bf5.web.app/" target='_blank'>click here</a></h3>
-        <h3>mail: <a href="mailto:mundrai.pavan@gmail.com">pavanmundrai@gmail.com</a></h3>
+        <h3>mail: <a href="mailto:mundrai.pavan@gmail.com">mundrai.pavan@gmail.com</a></h3>
       </div>
     </>
   );
