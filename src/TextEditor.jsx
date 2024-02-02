@@ -41,8 +41,7 @@ const HashTextDecorator = {
     findWithRegex(/^\#\ /gm, contentBlock, callback);
   },
   component: ({ children }) => (
-    <span>
-      <h1 style={{ color: 'black', display: 'inline' }}>{children}</h1>
+    <span className='headerOne'>{children}
     </span>
   ),
 };
